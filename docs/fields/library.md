@@ -1,4 +1,4 @@
-# Library
+# Library of Enlightenment
 
 <figure markdown="span">
 
@@ -7,9 +7,9 @@
 </figure>
 
 ___
-<p style="text-align: center;" markdown>[Visitable Field](../keywords/visitable_field.md)</p>
+<p style="text-align: center;" markdown>[Revisitable Field](../keywords/revisitable_field.md)</p>
 ___
-<p style="text-align: center;" markdown>🚧</p>
+<p style="text-align: center;" markdown>You can :pay: 3 :gold: to Remove 1 Statistic card from your hand or discard pile and replace it with any other Statistic card. You can do it twice per visit.</p>
 ___
 
 

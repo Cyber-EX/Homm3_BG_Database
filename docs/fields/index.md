@@ -17,7 +17,7 @@ Fields are single cells on a [tile](../tiles/index.md).
 | [Grail](grail.md) | [Visitable](../keywords/visitable_field.md) | Gain a Grail Token. Only one Grail Token can exist in the game, do not gain another if this Field’s Black Cube is removed or if there are multiple Grail Fields. The Token’s effects are described in the Scenario’s description. |
 | [Hill Fort](hill_fort.md) | [Visitable](../keywords/visitable_field.md) | You may immediately Reinforce one of your :bronze: or :silver: [Units](../units/index.md). The Reinforcement cost is reduced by 3 :gold: to a minimum of 0. |
 | [Learning Stone](learning_stone.md) | [Visitable](../keywords/visitable_field.md) | Gain one :experience:. |
-| [Library](library.md) | [Visitable](../keywords/visitable_field.md) | 🚧 |
+| [Library of Enlightenment](library.md) | [Revisitable Field](../keywords/revisitable_field.md) | You can :pay: 3 :gold: to Remove 1 Statistic card from your hand or discard pile and replace it with any other Statistic card. You can do it twice per visit. |
 | [Magic Spring](magic_spring.md) | [Visitable](../keywords/visitable_field.md) | You may look at the top 3 Cards of your Discard Pile and return one of them to your Hand. Return the remaining cards to the top of your Discard Pile in any order. |
 | [Market of Time](market_of_time.md) | [Visitable](../keywords/visitable_field.md) | Remove one card from your hand. Then **Search(2)** the [Ability](../abilities/index.md), [Spell](../spells/index.md), or [Artifact](../artifacts/index.md) Deck. |
 | [Mystical Garden](mystical_garden.md) | [Visitable](../keywords/visitable_field.md) | Gain 2 :gold:.<br><br>— OR —<br><br>Gain 1 :valuables:. |
@@ -26,7 +26,7 @@ Fields are single cells on a [tile](../tiles/index.md).
 | [Redwood Observatory](redwood_observatory.md) | [Visitable](../keywords/visitable_field.md) | Discover a face down [Tile](../tiles/index.md) adjacent to this one. |
 | [Resources](resources.md) | [Visitable](../keywords/visitable_field.md) | Roll a [Resource Die](../dice.md#resource-die) and gain the indicated Resources. |
 | [Scholar](scholar.md) | [Visitable](../keywords/visitable_field.md) | Roll 1 [Attack Die](../dice.md#attack-die). Depending on the result, do the following:<br><br>**+1** - Gain a [Statistic](../statistics/index.md) Card of your choice or Remove a [Statistic](../statistics/index.md) Card from your hand.<br><br>**0** - Draw 2 Cards from the [Ability](../abilities/index.md) Deck, gain one of them and discard the other.<br><br>**-1** - Draw 2 Cards from the [Spell](../spells/index.md) Deck, gain one of them and discard the other. |
-| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | [Visitable](../keywords/visitable_field.md) | Pay :pay: 3 :gold: to **Search(2)** the [Spell](../spells/index.md) Deck. |
+| [Shrine of Magic Gesture](shrine_of_magic_gesture.md) | [Visitable](../keywords/visitable_field.md) | You may :pay: 3 :gold: to **Search(2)** the [Spell](../spells/index.md) Deck. |
 | [Shrine of Magic Incantation](shrine_of_magic_incantation.md) | [Visitable](../keywords/visitable_field.md) | **Search(2)** the [Spell](../spells/index.md) Deck. |
 | [Temple](temple.md) | [Visitable](../keywords/visitable_field.md) | Gain :morale_positive: token. |
 | [Tree of Knowledge](tree_of_knowledge.md) | [Visitable](../keywords/visitable_field.md) | You may :pay: 3 :valuables: or 10 :gold: to gain 2 :experience:. |
