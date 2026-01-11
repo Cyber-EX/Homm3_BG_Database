@@ -93,7 +93,7 @@ Quick reference for what the different glyphs mean.
 | Icon | Description |
 | :---: | :--- |
 | :experience: | Half an experience level |
-| :hand: | Player's hand |
+| :hand: | Hand limit |
 | :expert: | Expert effect |
 | :pay: | Pay |
 | :recruit: | Recruit |
