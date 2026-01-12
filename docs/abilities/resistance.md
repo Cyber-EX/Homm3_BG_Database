@@ -1,26 +1,16 @@
 # Resistance
 
-=== "Regular"
-
-    <figure markdown="span">
-        ![Resistance](../assets/abilities-resistance.webp){ width="340" align=right }
-    </figure>
-
-=== "Empowered"
-
-    <figure markdown="span">
-        ![Empowered Resistance](../assets/player-deck-back.webp){ width="340" align=right }
-    </figure>
-
+![Resistance](../assets/abilities-resistance.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
+<p style="text-align: center;" markdown>:instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). If the spell was cast with 1 :empower: or less, ignore the [Spell](../spells/index.md) card's effect.</p>
+___
+<p style="text-align: center;" markdown> :expert: </p>
 
-| Type | Effect | :expert: Effect |
-| :--- | :---: | :---: |
-| Regular | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). If the spell was cast with 1 :power: or less, ignore the [Spell](../spells/index.md) card's effect. | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect. |
-| Empowered | :instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect. | - |
+<p style="text-align: center;" markdown>:instant: Play this card immediately after the enemy casts a [spell](../spells/index.md). Ignore the [Spell](../spells/index.md) card's effect.</p>
+___
 
 
 ## Heroes With Starting Ability
@@ -37,8 +27,6 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
-- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
-- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also

@@ -1,26 +1,16 @@
 # Logistics
 
-=== "Regular"
-
-    <figure markdown="span">
-        ![Logistics](../assets/abilities-logistics.webp){ width="340" align=right }
-    </figure>
-
-=== "Empowered"
-
-    <figure markdown="span">
-        ![Empowered Logistics](../assets/player-deck-back.webp){ width="340" align=right }
-    </figure>
-
+![Logistics](../assets/abilities-logistics.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
+<p style="text-align: center;" markdown>:ongoing: At the end of your turn, move your Hero's model to an adjacent empty field.</p>
+___
+<p style="text-align: center;" markdown> :expert: </p>
 
-| Type | Effect | :expert: Effect |
-| :--- | :---: | :---: |
-| Regular | :ongoing: At the end of your turn, move your [Hero's](../heroes/index.md) model to an adjacent [empty field](../fields/empty_field.md). | :instant: Your [Hero](../heroes/index.md) gains +1 Movement. |
-| Empowered | :instant: Your [Hero](../heroes/index.md) gains +1 :movement:. | - |
+<p style="text-align: center;" markdown>:instant: Your Hero gains +1 Movement.</p>
+___
 
 
 ## Heroes With Starting Ability
@@ -40,8 +30,6 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
-- [Conflux Expansion](../content/conflux_expansion.md)
-- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also

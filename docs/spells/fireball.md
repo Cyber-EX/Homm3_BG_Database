@@ -3,9 +3,9 @@
 ![Fireball](../assets/spells-fireball.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Expert Fire Spell](index.md#school-of-fire-magic)</p>
+<p style="text-align: center;" markdown>[Expert Fire Spell](school_of_fire_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:activation: Select 2 adjacent places. Deal \* :damage: to [units](../units/index.md) in these spaces.<br><br>:power: 0 ➣ 1 :damage:<br>:power: 2 ➣ 2 :damage:<br>:power: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:activation: Select 2 adjacent places. Deal \* :damage: to [units](../units/index.md) in these spaces.<br><br>:empower: 0 ➣ 1 :damage:<br>:empower: 2 ➣ 2 :damage:<br>:empower: 4 ➣ 3 :damage:<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -21,5 +21,5 @@ ___
 
 ## See Also
 
-- [School of Fire Magic](index.md#school-of-fire-magic)
+- [School of Fire Magic](school_of_fire_magic.md)
 - [List of Spells](index.md)

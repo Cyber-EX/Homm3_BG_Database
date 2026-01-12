@@ -1,26 +1,16 @@
 # Earth Magic
 
-=== "Regular"
-
-    <figure markdown="span">
-        ![Earth Magic](../assets/abilities-earth_magic.webp){ width="340" align=right }
-    </figure>
-
-=== "Empowered"
-
-    <figure markdown="span">
-        ![Empowered Earth Magic](../assets/player-deck-back.webp){ width="340" align=right }
-    </figure>
-
+![Earth Magic](../assets/abilities-earth_magic.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
+<p style="text-align: center;" markdown>:permanent: +1 :empower: for spells from [School of Earth Magic](../spells/school_of_earth_magic.md).</p>
+___
+<p style="text-align: center;" markdown> :expert: </p>
 
-| Type | Effect | :expert: Effect |
-| :--- | :---: | :---: |
-| Regular | :permanent: +1 :power: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic). | When casting :spell: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :power:. |
-| Empowered | :permanent: +1 :power: for spells from [School of Earth Magic](../spells/index.md#school-of-earth-magic).<br><br>— OR —<br><br>:instant: When casting :spell: from the [School of Earth](../spells/index.md#school-of-earth-magic), you can discard this card, then gain +3 :power:. | - |
+<p style="text-align: center;" markdown>While casting :spellpower: from the [School of Earth](../spells/school_of_earth_magic.md), you can discard this card, then gain +3 :empower:.</p>
+___
 
 
 ## Notes
@@ -32,11 +22,9 @@ ___
 ## Comes With
 
 - [Tower Expansion](../content/tower_expansion.md)
-- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
-- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
 
 - [List of Abilities](index.md)
-- [School of Earth Magic](../spells/index.md#school-of-earth-magic)
+- [School of Earth Magic](../spells/school_of_earth_magic.md)
