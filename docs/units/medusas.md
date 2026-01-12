@@ -29,13 +29,13 @@
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Dungeon](../towns/dungeon.md) | [Dungeon](../towns/dungeon.md) | [Neutral](../towns/neutral.md) | - |
 | Tier | :silver: | :silver: | :silver: | - |
-| Type | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) | [:unit_ranged:](../keywords/ranged_unit.md) |
+| Type | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) | [:unit_ranged:](index.md#ranged-units) |
 | :attack: | 3 | **4** | 3 | 3 |
 | :defense: | 1 | 1 | 1 | 0 |
 | :health_points: | 4 | 4 | 4 | 3 |
 | :initiative: | 5 | **6** | 6 | 6 |
 | Cost | 6 :gold: | 12 :gold: | 11 :gold: | - |
-| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../keywords/dice.md#attack-die), on a "0" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliate: The target is :paralysis:. | :unit_attack: Ignore the Retalation Attack. If this unit is Stacked, the target gains [:paralysis:](../keywords/paralysis.md). |
+| Abilities | :unit_passive: After the Retaliation Attack, roll an [Attack die](../keywords/dice.md#attack-die), on a "0" the target is :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliation: The target gains :paralysis:. | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_retaliation: The target is :paralysis:. | :unit_attack: Ignore the Retalation Attack. If this unit is Stacked, the target gains [:paralysis:](../keywords/paralysis.md). |
 
 
 ## Notes

@@ -17,13 +17,13 @@
 | :--- | :---: | :---: |
 | Town | [Neutral](../towns/neutral.md) | - |
 | Tier | :azure: | - |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 7 | 6 |
 | :defense: | 3 | 2 |
 | :health_points: | 9 | 6 |
 | :initiative: | 16 | 16 |
 | Cost | 40 :gold:<br>2 :valuables: | - |
-| Abilities | :effect_map: At the beginning of each Resource round, gain 2 :valuables:. | :unit_passive: As long as this unit is Stacked, it is treated as if it had a Defense token on it. |
+| Abilities | :map_effect: At the beginning of each Resource round, gain 2 :valuables:. | :unit_passive: As long as this unit is Stacked, it is treated as if it had a Defense token on it. |
 
 
 ## Heroes With A Specialty

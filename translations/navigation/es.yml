@@ -4,8 +4,10 @@ nav:
      - "artifacts/*.md"
   - Ciudades:
      - "towns/*.md"
+  - Comercio: "trading.md"
   - Contenido:
      - "content/*.md"
+  - Dificultades: "difficulties.md"
   - Escenarios:
      - "scenarios/*.md"
   - Estadísticas:
@@ -18,12 +20,27 @@ nav:
      - "spells/*.md"
   - Héroes:
      - "heroes/*.md"
+  - Leyenda: "legend.md"
   - Losetas:
      - "tiles/*.md"
   - Máquinas de Guerra:
      - "war_machines/*.md"
   - Palabras Clave:
      - "keywords/*.md"
+     - Alternative Action: "keywords/alternative_action.md"
+     - Combat: "keywords/combat.md"
+     - Dice: "keywords/dice.md"
+     - Dwelling: "keywords/dwelling.md"
+     - Empower: "keywords/empower.md"
+     - Morale: "keywords/morale.md"
+     - Obstacle: "keywords/obstacle.md"
+     - Paralysis: "keywords/paralysis.md"
+     - Permanent Effect: "keywords/permanent_effect.md"
+     - Recruit: "keywords/recruit.md"
+     - Reinforce: "keywords/reinforce.md"
+     - Remove: "keywords/remove.md"
+     - Search: "keywords/search.md"
+     - Summon: "keywords/summon.md"
   - Proclama de los Astrólogos:
      - "astrologers_proclaim/*.md"
   - Unidades:
