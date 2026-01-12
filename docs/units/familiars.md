@@ -29,13 +29,13 @@
 | :--- | :---: | :---: | :---: | :---: |
 | Town | [Inferno](../towns/inferno.md) | [Inferno](../towns/inferno.md) | [Neutral](../towns/neutral.md) | - |
 | Tier | :bronze: | :bronze: | :bronze: | - |
-| Type | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) | [:unit_ground:](../keywords/ground_unit.md) |
+| Type | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) | [:unit_ground:](index.md#ground-units) |
 | :attack: | 2 | **3** | 3 | 1 |
 | :defense: | 1 | 1 | 1 | 0 |
 | :health_points: | 2 | 2 | 2 | 2 |
 | :initiative: | 5 | **7** | 7 | 5 |
 | Cost | 2 :gold: | 3 :gold: | 6 :gold: | - |
-| Abilities | - | :unit_passive: Whenever an enemy casts a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: Whenever an enemy cast a [:spellpower:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: As long as this unit is Stacked, whenever the enemy casts a spell, reduce their :empower: by 1 (to a minimum of 0).
+| Abilities | - | :unit_passive: Whenever an enemy casts a [:spell:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: Whenever an enemy cast a [:spell:](../spells/index.md) from hand, they must discard 1 card from hand. | :unit_passive: As long as this unit is Stacked, whenever the enemy casts a spell, reduce their :power: by 1 (to a minimum of 0).
 
 
 ## Notes
