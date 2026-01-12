@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-01-10 14:07+0100\n"
+"POT-Creation-Date: 2026-01-11 20:47+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -405,7 +405,7 @@ msgstr ""
 #: docs/abilities/index.md
 #, no-wrap
 msgid ""
-"| Name | Effect | : expert: Effect | Content |\n"
+"| Name | Effect | :expert: Effect | Content |\n"
 "| : --- | :---: | :---: | :--- |\n"
 "| [Air Magic](../abilities/air_magic.md#regular) | :permanent: +1 :power: for spells from [School of Air Magic](../spells/index.md#school-of-air-magic). | When casting :spell: from the [School of Air](../spells/index.md#school-of-air-magic), you can discard this card, then gain +3 :power:. | [Tower Expansion](../content/tower_expansion.md)<br>[Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
 "| [Archery](../abilities/archery.md#regular) | :ongoing: During this Combat round, your [Ranged units](../units/index.md#ranged-units) gain +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | :ongoing: Until the end of the next Combat round, your [Ranged units](../units/index.md#ranged-units) gain +1 :initiative: and +1 :attack: if the target is a non-adjacent [unit](../units/index.md). | [Core Game](../content/core_game.md)<br>[Regular Stretch Goals 2024](../content/regular_stretch_goals.md) |\n"
@@ -1453,8 +1453,9 @@ msgstr "To fanowski projekt i w żaden sposób nie jest powiązany z [Archon Stu
 
 #. type: Title ##
 #: docs/index.md
-#, no-wrap
-msgid ":skill: Other Community Projects"
+#, fuzzy, no-wrap
+#| msgid ":skill: Other Community Projects"
+msgid ":knowledge: Other Community Projects"
 msgstr ":skill: Inne projekty społeczności"
 
 #. type: Plain text
@@ -1574,6 +1575,15 @@ msgstr "Jednostki"
 #, no-wrap
 msgid "Types"
 msgstr "Typy"
+
+#. type: Title ##
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/index.md
+#: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
+#: docs/towns/stronghold.md docs/towns/tower.md
+#, no-wrap
+msgid "Buildings"
+msgstr "Budynki"
 
 #. type: Title #
 #: docs/scenarios/index.md
@@ -2161,15 +2171,6 @@ msgstr ""
 #, fuzzy
 msgid "[List of Fields](../fields/index.md)"
 msgstr "[Lista Jednostek](units/index.md)"
-
-#. type: Title ##
-#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
-#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/index.md
-#: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md
-#, no-wrap
-msgid "Buildings"
-msgstr "Budynki"
 
 #. type: Plain text
 #: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
@@ -2776,7 +2777,7 @@ msgid ""
 "| [Rust Dragons](rust_dragons.md) | [Neutral](../towns/neutral.md) | Neutral | :azure: | [:unit_flying:](index.md#flying-units) | 7 | 3 | 10 | 17 | 38 :gold:<br>1 :valuables: | :unit_attack: On \"-1\" results on the [Attack die](../keywords/dice.md#attack-die), decrease the attacked unit's :defense: by 2 - to a minimum of 0. | [Fortress Expansion](../content/fortress_expansion.md) |\n"
 "| [Titans](titans.md) | [Neutral](../towns/neutral.md) | Neutral | :azure: | [:unit_ranged:](index.md#ranged-units) | 6 | 2 | 10 | 10 | 39 :gold: | :unit_passive: Ignore the combat penalty against adjacent units.<br>:unit_attack: When attacking [Black Dragons](black_dragons.md), this unit gains +2 :attack:. | [Tower Expansion](../content/tower_expansion.md) |\n"
 "| [Familiars](familiars.md) | - | [Imp Cache](../fields/imp_cache_creature_bank.md) | - | [:unit_ground:](index.md#ground-units) | 1 | 0 | 2 | 5 | - | - | [Naval Battles Expansion](../content/naval_battles_expansion.md) |\n"
-"| [Skeletons](skeletons.md) | - | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_ground:](index.md#ground-units) | 1 | 0 | 2 | 4 | - | :unit_passive: Once per Combat. When this unit's :health: drops to 0, set it to 1 instead. | [Naval Battles Expansion](../content/naval_battles_expansion.md) |\n"
+"| [Skeletons](skeletons.md) | - | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_ground:](index.md#ground-units) | 1 | 0 | 2 | 4 | - | :unit_passive: Once per Combat. When this unit's :health_points: drops to 0, set it to 1 instead. | [Naval Battles Expansion](../content/naval_battles_expansion.md) |\n"
 "| [Dwarves](dwarves.md) | - | [Dwarven Treasury](../fields/dwarven_treasury_creature_bank.md) | - | [:unit_ground:](index.md#ground-units) | 2 | 1 | 3 | 3 | - | :unit_passive: As long as this unit is Stacked, it is treated as if it had a Defense token on it. | [Naval Battles Expansion](../content/naval_battles_expansion.md) |\n"
 "| [Zombies](zombies.md) | - | [Crypt](../fields/crypt_creature_bank.md) | - | [:unit_ground:](index.md#ground-units) | 1 | 0 | 2 | 3 | - | :unit_passive: If the attacker resolves a \"+1\" on [Attack die](../keywords/dice.md#attack-die) against this unit, gain +1 :defense:. | [Naval Battles Expansion](../content/naval_battles_expansion.md) |\n"
 "| [Dragon Flies](dragon_flies.md) | - | [Dragon Fly Hive](../fields/dragon_fly_hive_creature_bank.md) | - | [:unit_flying:](index.md#flying-units) | 3 | 0 | 2 | 8 | - | :unit_attack: Retaliation Attacks against Dragon Flies suffer -2 :attack:. | [Naval Battles Expansion](../content/naval_battles_expansion.md) |\n"

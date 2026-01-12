@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-07 06:02+0000\n"
+"POT-Creation-Date: 2026-01-12 04:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,6 +60,35 @@ msgid ""
 "| :---: | :--- |\n"
 "| :might: | Hero of Might |\n"
 "| :magic: | Hero of Magic |\n"
+"| :attack: | Attack |\n"
+"| :defense: | Defense |\n"
+"| :power: | Power |\n"
+"| :knowledge: | Knowledge |\n"
+msgstr ""
+
+#. type: Title ##
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/index.md
+#: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
+#: docs/towns/stronghold.md docs/towns/tower.md
+#, no-wrap
+msgid "Buildings"
+msgstr ""
+
+#. type: Plain text
+#: docs/legend.md
+#, no-wrap
+msgid ""
+"| Icon | Description |\n"
+"| :---:| :--- |\n"
+"| :city_hall: | City&nbsp;Hall |\n"
+"| :citadel: | Citadel |\n"
+"| :mage_guild: | Mage&nbsp;Guild |\n"
+"| :bronze: | Bronze&nbsp;Dwelling |\n"
+"| :silver: | Silver&nbsp;Dwelling |\n"
+"| :golden: | Gold&nbsp;Dwelling |\n"
+"| :special_tent: | Special&nbsp;Building |\n"
+"| :special_gears: | Special&nbsp;Building |\n"
 msgstr ""
 
 #. type: Plain text
@@ -77,10 +106,7 @@ msgid ""
 "| :unit_ranged: | Ranged unit |\n"
 "| :attack: | Attack |\n"
 "| :defense: | Defense |\n"
-"| :power: | Power |\n"
-"| :skill: | Intelligence |\n"
-"| :health_points: | Health |\n"
-"| :damage: | Damage |\n"
+"| :health_points: | Health points |\n"
 "| :initiative: | Initiative |\n"
 msgstr ""
 
@@ -116,11 +142,13 @@ msgid ""
 "| :unit_retaliation: | Retaliation. Triggers when unit is retaliating |\n"
 "| :activation: | Activation. Triggers when unit activates |\n"
 "| :unit_passive: | Passive. Triggers when condition is met |\n"
-"| :unit_other: | Can be used as alternative to attacking |\n"
+"| :unit_other: | Can be used as alternative to movement and attacking |\n"
 "| :paralysis: | Paralysis |\n"
 "| :ongoing: | Ongoing effect |\n"
 "| :instant: | Instant effect |\n"
 "| :permanent: | Permanent effect |\n"
+"| :power: | Power |\n"
+"| :damage: | Damage |\n"
 msgstr ""
 
 #. type: Title ##
@@ -178,8 +206,12 @@ msgstr ""
 msgid ""
 "| Icon | Description |\n"
 "| :---: | :--- |\n"
+"| :experience: | Half an experience level |\n"
+"| :hand: | Hand limit |\n"
 "| :expert: | Expert effect |\n"
 "| :pay: | Pay |\n"
+"| :recruit: | Recruit |\n"
+"| :reinforce: | Reinforce |\n"
 "| :morale_positive: | Positive morale |\n"
 "| :morale_negative: | Negative morale |\n"
 "| :movement: | Movement point |\n"

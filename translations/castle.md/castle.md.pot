@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-01-07 06:02+0000\n"
+"POT-Creation-Date: 2026-01-11 20:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -732,19 +732,19 @@ msgstr ""
 msgid "Heroes"
 msgstr ""
 
-#. type: Title #
-#: docs/towns/castle.md
-#, no-wrap
-msgid "Castle"
-msgstr ""
-
 #. type: Title ##
-#: docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
+#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
 #: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/index.md
 #: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
 #: docs/towns/stronghold.md docs/towns/tower.md
 #, no-wrap
 msgid "Buildings"
+msgstr ""
+
+#. type: Title #
+#: docs/towns/castle.md
+#, no-wrap
+msgid "Castle"
 msgstr ""
 
 #. type: Plain text
