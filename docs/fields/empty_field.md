@@ -19,7 +19,5 @@ ___
 ## See Also
 
 - [Blocked Filed](blocked_field.md)
-- [Land Field](land_field.md)
-- [Sea Field](sea_field.md)
 - [List of Fields](index.md)
 - [List of Tiles](../tiles/index.md)

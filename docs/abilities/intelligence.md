@@ -1,26 +1,16 @@
 # Intelligence
 
-=== "Regular"
-
-    <figure markdown="span">
-        ![Intelligence](../assets/abilities-intelligence.webp){ width="340" align=right }
-    </figure>
-
-=== "Empowered"
-
-    <figure markdown="span">
-        ![Empowered Intelligence](../assets/player-deck-back.webp){ width="340" align=right }
-    </figure>
-
+![Intelligence](../assets/abilities-intelligence.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
+<p style="text-align: center;" markdown>:instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. You can still only play a [Spell](../spells/index.md) card during a Combat round.</p>
+___
+<p style="text-align: center;" markdown> :expert: </p>
 
-| Type | Effect | :expert: Effect |
-| :--- | :---: | :---: |
-| Regular | :instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. You can still only play a [Spell](../spells/index.md) card during a Combat round. | :instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. This spell does not count toward your spell limit per Combat round. |
-| Empowered | :instant: At the beginning of the Combat round, play a [Spell](../spells/index.md) card.<br>This spell does not count toward your [Spell](../spells/index.md) limit per Combat round. | - |
+<p style="text-align: center;" markdown>:instant: During Combat, before any [unit](../units/index.md) activates, play a [Spell](../spells/index.md) card. This spell does not count toward your spell limit per Combat round.</p>
+___
 
 
 ## Heroes With Starting Ability
@@ -38,8 +28,6 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
-- [Regular Stretch Goals 2024](../content/regular_stretch_goals.md)
-- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also

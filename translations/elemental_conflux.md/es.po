@@ -49,11 +49,11 @@ msgstr ""
 #: docs/heroes/xyron.md docs/keywords/alternative_action.md
 #: docs/keywords/attack_value.md docs/keywords/damage.md
 #: docs/keywords/defense_value.md docs/keywords/dice.md
-#: docs/keywords/dwelling.md docs/units/index.md#flying-units
+#: docs/keywords/dwelling.md docs/keywords/flying_unit.md
 #: docs/keywords/ground_unit.md docs/keywords/health_points.md
-#: docs/keywords/initiative_value.md docs/keywords/morale.md#negative
+#: docs/keywords/initiative_value.md docs/keywords/negative_morale.md
 #: docs/keywords/obstacle.md docs/keywords/paralysis.md
-#: docs/keywords/permanent_effect.md docs/keywords/morale.md#positive
+#: docs/keywords/permanent_effect.md docs/keywords/positive_morale.md
 #: docs/keywords/ranged_unit.md docs/keywords/recruit.md
 #: docs/keywords/reinforce.md docs/keywords/remove.md docs/keywords/search.md
 #: docs/spells/anti-magic.md docs/spells/berserk.md docs/spells/bless.md
@@ -286,8 +286,8 @@ msgstr "Notas"
 #: docs/spells/mirth.md docs/spells/misfortune.md docs/spells/prayer.md
 #: docs/spells/precision.md docs/spells/remove_obstacle.md
 #: docs/spells/resurrection.md docs/spells/sacrifice.md
-#: docs/spells/index.md#school-of-air-magic docs/spells/index.md#school-of-earth-magic
-#: docs/spells/index.md#school-of-fire-magic docs/spells/index.md#school-of-water-magic
+#: docs/spells/school_of_air_magic.md docs/spells/school_of_earth_magic.md
+#: docs/spells/school_of_fire_magic.md docs/spells/school_of_water_magic.md
 #: docs/spells/shield.md docs/spells/slayer.md docs/spells/slow.md
 #: docs/spells/sorrow.md docs/spells/stone_skin.md
 #: docs/spells/summon_air_elemental.md docs/spells/summon_earth_elemental.md
@@ -632,6 +632,6 @@ msgstr "![Cañón](../assets/player-deck-back.webp){ width=\"340\" align=right }
 #. type: Plain text
 #: docs/fields/elemental_conflux.md
 #, fuzzy, no-wrap
-#| msgid "<p style=\"text-align: center;\" markdown>:map_effect: For every [Dwelling](../towns/index.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../keywords/dice.md).</p>\n"
+#| msgid "<p style=\"text-align: center;\" markdown>:effect_map: For every [Dwelling](../towns/index.md) you have, draw 1 corresponding [Neutral Unit](../units/index.md) card. You can **Recruit** one of these units.<br><br>— OR —<br><br>:instant: Reroll a [die](../keywords/dice.md).</p>\n"
 msgid "<p style=\"text-align: center;\" markdown>When you enter this location, for every [Dwelling](../keywords/dwelling.md) you have, draw from the corresponding [Neutral Unit](../units/index.md) deck until you find an \"Elementals\" card. You can [Recruit](../keywords/recruit.md) one of these units if you :pay: its [Recruitment cost](../keywords/recruit.md). Shuffle the rest of the cards back into their decks.</p>\n"
-msgstr "<p style=\"text-align: center;\" markdown>:map_effect: Por cada [Vivienda](../towns/index.md) que tengas, descubre 1 carta de la correspondiente [Unidad Neutral](../units/index.md). Puedes **Reclutar** una de estas unidades.<br><br>— O —<br><br>:instant: Repite la tirada de un [dado](../keywords/dice.md).</p>\n"
+msgstr "<p style=\"text-align: center;\" markdown>:effect_map: Por cada [Vivienda](../towns/index.md) que tengas, descubre 1 carta de la correspondiente [Unidad Neutral](../units/index.md). Puedes **Reclutar** una de estas unidades.<br><br>— O —<br><br>:instant: Repite la tirada de un [dado](../keywords/dice.md).</p>\n"

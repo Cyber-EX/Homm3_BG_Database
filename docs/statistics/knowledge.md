@@ -13,11 +13,7 @@
     </figure>
 
 
-___
-<p style="text-align: center;" markdown>[Statistic](index.md)</p>
-___
-
-| Type | Effect | :expert: Effect |
+| Type |Effect | :expert: Effect |
 | :--- | :--- | :--- |
 | Regular | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1.  |
 | Empowered | :instant: Play this card after casting a [spell](../spells/index.md). Instead of discarding the [Spell](../spells/index.md) card, take it back to your hand. During this combat round, your [spell](../spells/index.md) limit increases by 1. | - |

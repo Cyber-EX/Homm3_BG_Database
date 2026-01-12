@@ -13,11 +13,7 @@
     </figure>
 
 
-___
-<p style="text-align: center;" markdown>[Statistic](index.md)</p>
-___
-
-| Type | Effect | :expert: Effect |
+| Type |Effect | :expert: Effect |
 | :--- | :--- | :--- |
 | Regular | :instant: +1 :defense: | :instant: +2 :defense:  |
 | Empowered | :instant: +2 :defense: | - |

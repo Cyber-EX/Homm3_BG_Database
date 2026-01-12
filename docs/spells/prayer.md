@@ -3,9 +3,9 @@
 ![Prayer](../assets/spells-prayer.webp){ width="340" align=right }
 
 ___
-<p style="text-align: center;" markdown>[Expert Water Spell](index.md#school-of-water-magic)</p>
+<p style="text-align: center;" markdown>[Expert Water Spell](school_of_water_magic.md)</p>
 ___
-<p style="text-align: center;" markdown>:instant: The selected [unit](../units/index.md) gains \* :attack:, :defense:, or :initiative::<br><br>:power: 0 ➣ \*+1 <br>:power: 2 ➣ \*+2 <br>:power: 4 ➣ \*+3<br><br>— OR —<br><br>:instant: +1 :power:</p>
+<p style="text-align: center;" markdown>:instant: The selected [unit](../units/index.md) gains \* :attack:, :defense:, or :initiative::<br><br>:empower: 0 ➣ \*+1 <br>:empower: 2 ➣ \*+2 <br>:empower: 4 ➣ \*+3<br><br>— OR —<br><br>:instant: +1 :empower:</p>
 ___
 
 
@@ -22,5 +22,5 @@ ___
 
 ## See Also
 
-- [School of Water Magic](index.md#school-of-water-magic)
+- [School of Water Magic](school_of_water_magic.md)
 - [List of Spells](index.md)

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-01-12 04:51+0000\n"
+"POT-Creation-Date: 2025-12-26 19:18+0000\n"
 "PO-Revision-Date: 2024-10-17 23:39+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -26,8 +26,8 @@ msgstr "Kości"
 #: docs/keywords/index.md docs/legend.md docs/towns/castle.md
 #: docs/towns/conflux.md docs/towns/cove.md docs/towns/dungeon.md
 #: docs/towns/fortress.md docs/towns/inferno.md docs/towns/necropolis.md
-#: docs/towns/rampart.md docs/towns/stronghold.md docs/towns/tower.md
-#: docs/units/index.md
+#: docs/towns/neutral.md docs/towns/rampart.md docs/towns/stronghold.md
+#: docs/towns/tower.md docs/units/index.md
 #, no-wrap
 msgid "Units"
 msgstr "Jednostki"
@@ -60,35 +60,6 @@ msgid ""
 "| :---: | :--- |\n"
 "| :might: | Hero of Might |\n"
 "| :magic: | Hero of Magic |\n"
-"| :attack: | Attack |\n"
-"| :defense: | Defense |\n"
-"| :power: | Power |\n"
-"| :knowledge: | Knowledge |\n"
-msgstr ""
-
-#. type: Title ##
-#: docs/legend.md docs/towns/castle.md docs/towns/conflux.md docs/towns/cove.md
-#: docs/towns/dungeon.md docs/towns/fortress.md docs/towns/index.md
-#: docs/towns/inferno.md docs/towns/necropolis.md docs/towns/rampart.md
-#: docs/towns/stronghold.md docs/towns/tower.md
-#, no-wrap
-msgid "Buildings"
-msgstr "Budynki"
-
-#. type: Plain text
-#: docs/legend.md
-#, no-wrap
-msgid ""
-"| Icon | Description |\n"
-"| :---:| :--- |\n"
-"| :city_hall: | City&nbsp;Hall |\n"
-"| :citadel: | Citadel |\n"
-"| :mage_guild: | Mage&nbsp;Guild |\n"
-"| :bronze: | Bronze&nbsp;Dwelling |\n"
-"| :silver: | Silver&nbsp;Dwelling |\n"
-"| :golden: | Gold&nbsp;Dwelling |\n"
-"| :special_tent: | Special&nbsp;Building |\n"
-"| :special_gears: | Special&nbsp;Building |\n"
 msgstr ""
 
 #. type: Plain text
@@ -106,7 +77,10 @@ msgid ""
 "| :unit_ranged: | Ranged unit |\n"
 "| :attack: | Attack |\n"
 "| :defense: | Defense |\n"
-"| :health_points: | Health points |\n"
+"| :empower: | Power |\n"
+"| :skill: | Intelligence |\n"
+"| :health_points: | Health |\n"
+"| :damage: | Damage |\n"
 "| :initiative: | Initiative |\n"
 msgstr ""
 
@@ -137,18 +111,16 @@ msgstr "Efekty i Zdolności"
 msgid ""
 "| Icon | Description |\n"
 "| :---: | :--- |\n"
-"| :map_effect: | Map effect. Can be activated when it's your turn and you are not in a fight |\n"
+"| :effect_map: | Map effect. Can be activated when it's your turn and you are not in a fight |\n"
 "| :unit_attack: | Attack. Triggers when unit is attacking (in case of multiple attacks it triggers for the first one only) |\n"
-"| :unit_retaliation: | Retaliation. Triggers when unit is retaliating |\n"
+"| :unit_retaliate: | Retaliation. Triggers when unit is retaliating |\n"
 "| :activation: | Activation. Triggers when unit activates |\n"
 "| :unit_passive: | Passive. Triggers when condition is met |\n"
-"| :unit_other: | Can be used as alternative to movement and attacking |\n"
+"| :unit_other: | Can be used as alternative to attacking |\n"
 "| :paralysis: | Paralysis |\n"
 "| :ongoing: | Ongoing effect |\n"
 "| :instant: | Instant effect |\n"
 "| :permanent: | Permanent effect |\n"
-"| :power: | Power |\n"
-"| :damage: | Damage |\n"
 msgstr ""
 
 #. type: Title ##
@@ -163,7 +135,7 @@ msgstr "Typy Kart"
 msgid ""
 "| Icon | Description |\n"
 "| :---: | :--- |\n"
-"| :spell: | [Spell](spells/index.md) |\n"
+"| :spellpower: | [Spell](spells/index.md) |\n"
 "| :artifact: | [Artifact](artifacts/index.md) |\n"
 msgstr ""
 
@@ -210,12 +182,8 @@ msgstr "Pozostałe"
 msgid ""
 "| Icon | Description |\n"
 "| :---: | :--- |\n"
-"| :experience: | Half an experience level |\n"
-"| :hand: | Hand limit |\n"
 "| :expert: | Expert effect |\n"
 "| :pay: | Pay |\n"
-"| :recruit: | Recruit |\n"
-"| :reinforce: | Reinforce |\n"
 "| :morale_positive: | Positive morale |\n"
 "| :morale_negative: | Negative morale |\n"
 "| :movement: | Movement point |\n"

@@ -1,26 +1,16 @@
 # Estates
 
-=== "Regular"
-
-    <figure markdown="span">
-        ![Estates](../assets/abilities-estates.webp){ width="340" align=right }
-    </figure>
-
-=== "Empowered"
-
-    <figure markdown="span">
-        ![Empowered Estates](../assets/player-deck-back.webp){ width="340" align=right }
-    </figure>
-
+![Estates](../assets/abilities-estates.webp){ width="340" align=right }
 
 ___
 <p style="text-align: center;" markdown>[Ability](index.md)</p>
 ___
+<p style="text-align: center;" markdown>:instant: Gain 3 :gold:.</p>
+___
+<p style="text-align: center;" markdown> :expert: </p>
 
-| Type | Effect | :expert: Effect |
-| :--- | :---: | :---: |
-| Regular | :instant: Gain 3 :gold:. | :instant: Gain 6 :gold:. |
-| Empowered | :instant: Gain 6 :gold:. | - |
+<p style="text-align: center;" markdown>:instant: Gain 6 :gold:.</p>
+___
 
 
 ## Heroes With Starting Ability
@@ -33,8 +23,6 @@ ___
 ## Comes With
 
 - [Core Game](../content/core_game.md)
-- [Conflux Expansion](../content/conflux_expansion.md)
-- [Naval Battles Expansion](../content/naval_battles_expansion.md) (Empowered)
 
 
 ## See Also
