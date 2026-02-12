@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3_BG_Database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-02-12 05:27+0000\n"
 "PO-Revision-Date: 2025-03-11 13:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -613,5 +613,5 @@ msgstr "![Ubicación de Fuente de la Juventud](../assets/locations-fountain_of_y
 #: docs/fields/fountain_of_youth.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Gain :morale_positive: token. Gain +1 :movement: for this turn.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>Gain [:positive_morale:](../keywords/morale.md#positive) token. Gain +1 :movement: for this turn.</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>Gain [:positive_morale:](../keywords/morale.md#positive) token. Gain +1 :movement_points: for this turn.</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Gana una ficha de :morale_positive:. Gana +1 :movement: durante este turno.</p>\n"

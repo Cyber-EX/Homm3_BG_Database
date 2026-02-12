@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-02-12 05:27+0000\n"
 "PO-Revision-Date: 2025-12-22 21:01+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -706,7 +706,7 @@ msgstr "[Recursos](../fields/resource_symbol.md)"
 #: docs/tiles/cx4.md docs/tiles/nx10.md docs/tiles/w4.md docs/tiles/w6.md
 #: docs/tiles/w7.md
 #, fuzzy
-msgid "[:positive_morale: :movement: Mermaid](../fields/mermaid.md)"
+msgid "[:positive_morale: :movement_points: Mermaid](../fields/mermaid.md)"
 msgstr "[Templo](../fields/temple.md)"
 
 #. type: Bullet: '- '

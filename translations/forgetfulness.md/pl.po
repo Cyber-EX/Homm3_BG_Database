@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Homm 3BG-database\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-02-12 05:27+0000\n"
 "PO-Revision-Date: 2024-10-18 10:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -651,5 +651,5 @@ msgstr ""
 #: docs/spells/forgetfulness.md
 #, fuzzy, no-wrap
 #| msgid "<p style=\"text-align: center;\" markdown>Until the next Astrologer's round:<br><br>Each Hero gains +1 Movement.</p>\n"
-msgid "<p style=\"text-align: center;\" markdown>:ongoing: During its next activation, a \\* :ranged_unit: [unit](../units/index.md) of your choice cannot :attack:.<br><br>:power: 0 ➣ \\*:bronze:<br>:power: 1 ➣ \\*:bronze: or :silver:<br>:power: 2 ➣ \\*:bronze: or :silver: or :golden:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
+msgid "<p style=\"text-align: center;\" markdown>:ongoing: During its next activation, a \\* :ranged_unit: [unit](../units/index.md) of your choice cannot :attack:.<br><br>:power: 0 ➣ \\*:bronze_tier:<br>:power: 1 ➣ \\*:bronze_tier: or :silver_tier:<br>:power: 2 ➣ \\*:bronze_tier: or :silver_tier: or :gold_tier:<br><br>— OR —<br><br>:instant: +1 :power:</p>\n"
 msgstr "<p style=\"text-align: center;\" markdown>Ten efekt trwa do następnej rundy Astrologów.<br><br>Każdy Bohater zyskuje 1 PR.</p>\n"
