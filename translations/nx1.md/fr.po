@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: 2024-10-21 16:09+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -734,8 +734,9 @@ msgstr ""
 #: docs/tiles/f25.md docs/tiles/f3.md docs/tiles/f8.md docs/tiles/fx1.md
 #: docs/tiles/fx12.md docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/n16.md
 #: docs/tiles/n18.md docs/tiles/nx1.md
-msgid "[:movement: Stables](../fields/stables.md)"
-msgstr ""
+#, fuzzy
+msgid "[:movement_points: Stables](../fields/stables.md)"
+msgstr "[Artefact relique](relic_artifact.md)"
 
 #. type: Plain text
 #: docs/tiles/n1.md docs/tiles/n10.md docs/tiles/n11.md docs/tiles/n12.md

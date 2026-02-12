@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-12 04:56+0000\n"
+"POT-Creation-Date: 2026-02-12 05:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -753,7 +753,7 @@ msgstr ""
 #: docs/tiles/f25.md docs/tiles/f3.md docs/tiles/f8.md docs/tiles/fx1.md
 #: docs/tiles/fx12.md docs/tiles/fx7.md docs/tiles/fx8.md docs/tiles/n16.md
 #: docs/tiles/n18.md docs/tiles/nx1.md
-msgid "[:movement: Stables](../fields/stables.md)"
+msgid "[:movement_points: Stables](../fields/stables.md)"
 msgstr ""
 
 #. type: Bullet: '- '
