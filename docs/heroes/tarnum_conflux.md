@@ -1,10 +1,10 @@
-# Tarnum (Conflux)
+# Tarnum (Tower)
 
-<p style="text-align: center;" markdown>![Tarnum (Conflux)](../assets/player-deck-back.webp){ width=340 align=right }</p>
+<p style="text-align: center;" markdown>![Tarnum (Tower)](../assets/player-deck-back.webp){ width=340 align=right }</p>
 ___
-<p style="text-align: center;" markdown>[:magic: Elementalist](index.md)</p>
+<p style="text-align: center;" markdown>[:magic: Wizard](index.md)</p>
 ___
-<p style="text-align: center;" markdown>[Conflux](../towns/conflux.md)</p>
+<p style="text-align: center;" markdown>[Tower](../towns/tower.md)</p>
 ___
 
 <p style="text-align: center;" markdown>[:attack:](../statistics/attack.md)&nbsp;0</br>[:defense:](../statistics/defense.md)&nbsp;0</br>[:power:](../statistics/power.md)&nbsp;2</br>[:knowledge:](../statistics/knowledge.md)&nbsp;3</p>
